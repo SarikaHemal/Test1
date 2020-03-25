@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52148" started-at="2020-03-25T09:47:01 NZDT" finished-at="2020-03-25T09:47:54 NZDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52148" started-at="2020-03-25T09:47:01 NZDT" finished-at="2020-03-25T09:47:54 NZDT">
+      <class name="TestNGBasic.SpiceJetTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="setup" is-config="true" duration-ms="18129" started-at="2020-03-25T09:47:01 NZDT" finished-at="2020-03-25T09:47:20 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginButtonTest()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="loginButtonTest" duration-ms="302" started-at="2020-03-25T09:47:20 NZDT" finished-at="2020-03-25T09:47:20 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="tearDown" is-config="true" duration-ms="4109" started-at="2020-03-25T09:47:20 NZDT" finished-at="2020-03-25T09:47:24 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="setup" is-config="true" duration-ms="15195" started-at="2020-03-25T09:47:24 NZDT" finished-at="2020-03-25T09:47:39 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoTest()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="logoTest" duration-ms="128" started-at="2020-03-25T09:47:39 NZDT" finished-at="2020-03-25T09:47:39 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="tearDown" is-config="true" duration-ms="110" started-at="2020-03-25T09:47:39 NZDT" finished-at="2020-03-25T09:47:39 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="setup" is-config="true" duration-ms="14023" started-at="2020-03-25T09:47:39 NZDT" finished-at="2020-03-25T09:47:53 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="titleTest" duration-ms="11" started-at="2020-03-25T09:47:53 NZDT" finished-at="2020-03-25T09:47:53 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGBasic.SpiceJetTest@63e2203c]" name="tearDown" is-config="true" duration-ms="86" started-at="2020-03-25T09:47:53 NZDT" finished-at="2020-03-25T09:47:54 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGBasic.SpiceJetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

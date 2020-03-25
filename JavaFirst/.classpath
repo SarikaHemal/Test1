@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/selenium-4.0.0-alpha-1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/selenium-4.0.0-alpha-1-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/byte-buddy-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/jeromq-0.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/jnacl-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/listenablefuture-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/okhttp-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/okio-1.17.3.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/opentracing-api-0.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/opentracing-noop-0.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/opentracing-tracerresolver-0.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/opentracing-util-0.31.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/snakeyaml-1.24.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/seleniumGrid/libs/stripped-bundle.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJarFile/guice-4.2.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
