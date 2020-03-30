@@ -15,11 +15,14 @@ public class MouseMovementTest {
 		WebDriver driver=new ChromeDriver();//launch Chrome
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		driver.get("https://www.spicejet.com");
+		driver.get("https://www.amazon.com/");
 		Actions action=new Actions(driver);
-		action.moveToElement(driver.findElement(By.id("ctl00_HyperLinkLogin"))).build().perform();;
+		action.moveToElement(driver.findElement(By.xpath("//span[contains(text(),'Hello, Sign in')]"))).build().perform();
 		Thread.sleep(3000);
-		//driver.close();
+		driver.findElement(By.xpath("//div[@id='nav-flyout-ya-signin']//a//span[@class='nav-action-inner']")).click();
+				
+		Thread.sleep(5000);
+		driver.close();
 	}
 	
 	
